@@ -1,7 +1,7 @@
 # Next.js + Tailwind CSS + MediaStack + Stepzen
-We built a website where you can get access to dynamic data. For that we have used as  a api that can give us news MediaStack and Stepzen which facilite the graphQl Utilization
-We get data from mediaStack api where we have create an account and use the api key
-We make request by graphQL and for tha we use Stepzen
+I built a website where you can get access to dynamic data about many domain(subject). For that I have used as api MediaStack API and for manage request Stepzen which facilite the graphQl use.
+I get data from mediaStack api where I have create an account and use the api key
+I make request by graphQL and for that I have used Stepzen
 
 ## Step to follow to test the project
 * **To begin**: download the project
