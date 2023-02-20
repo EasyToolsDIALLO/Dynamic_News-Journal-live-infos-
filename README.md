@@ -4,10 +4,10 @@ We get data from mediaStack api where we have create an account and use the api 
 We make request by graphQL and for tha we use Stepzen
 
 Step to follow to test the project
-To begin: download the project
-After: create an account on MediaStack and copy the api key
-Then: Replace My API key in .env file
-After: Open a prompt terminal and execute the following commands
+* To begin: download the project
+* After: create an account on MediaStack and copy the api key
+* Then: Replace My API key in .env file
+* After: Open a prompt terminal and execute the following commands
   stepzen start
 After: Open an other prompt terminal and run the application
   npm run dev
